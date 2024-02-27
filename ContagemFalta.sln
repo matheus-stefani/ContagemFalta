@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemFalta", "ContagemFalta\ContagemFalta.csproj", "{2DF623F1-F896-496B-8AD5-DC94C3BCC7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF623F1-F896-496B-8AD5-DC94C3BCC7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF623F1-F896-496B-8AD5-DC94C3BCC7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF623F1-F896-496B-8AD5-DC94C3BCC7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF623F1-F896-496B-8AD5-DC94C3BCC7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2B6A08-2CEF-48B7-9867-DD490B2AFBB0}
+	EndGlobalSection
+EndGlobal
